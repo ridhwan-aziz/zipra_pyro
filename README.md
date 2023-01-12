@@ -1,5 +1,5 @@
 # Zipra Bot
-Source code of @ridhwan_aziz's bot in telegram
+Source code of ziprawan's bot in telegram
 
 # Credits thanks
 Go to this [page](./CREDITS.md)
